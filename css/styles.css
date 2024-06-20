@@ -90,9 +90,9 @@ body {
 	}
 }
 
-@media (max-width: 374px){
+@media (max-width: 475px){
 	body {
-		width: 374px;
+		width: 475px;
 	}
 }
 
